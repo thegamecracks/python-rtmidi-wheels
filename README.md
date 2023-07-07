@@ -1,5 +1,13 @@
 # python-rtmidi-wheels
 
+## Notice
+
+This repository has been deprecated with the release of [python-rtmidi][1]
+1.5.0-1.5.4 which has introduced 3.10/3.11 wheels to the original package,
+additionally with Linux and Apple Silicon wheels! 🎉
+
+## Description
+
 A repository hosting CPython prebuilt wheels for the [python-rtmidi][1] package.
 Only python-rtmidi 1.4.9 wheels are available at this time.
 
